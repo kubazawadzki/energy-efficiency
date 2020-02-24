@@ -1,7 +1,7 @@
 # energy-efficiency
 Applied technology:
 
-*JavaScript 
+*JavaScript <br>
 *ReactJS 
 *CSS 
 *HTML 
