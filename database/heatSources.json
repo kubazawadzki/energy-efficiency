@@ -1,0 +1,84 @@
+[
+  {
+    "fuel": "-",
+    "wiFactor": 0,
+    "pricePerKW": 0,
+    "id": 0
+  },
+    {
+      "fuel": "Olej opałowy",
+      "wiFactor": 1.1,
+      "pricePerKW": 500,
+      "id": 1
+    },
+    {
+      "fuel": "Gaz ziemny",
+      "wiFactor": 1.1,
+      "pricePerKW": 150,
+      "id": 2
+    },
+    {
+      "fuel": "Gaz płynny",
+      "wiFactor": 1.1,
+      "pricePerKW": 300,
+      "id": 3
+
+    },
+    {
+      "fuel": "Węgiel kamienny",
+      "wiFactor": 1.1,
+      "pricePerKW": 400,
+      "id": 4
+    },
+    {
+      "fuel": "Węgiel brunatny",
+      "wiFactor": 1.1,
+      "pricePerKW": 150,
+      "id": 5
+    },
+    {
+      "fuel": "Biomasa",
+      "wiFactor": 0.2,
+      "pricePerKW": 600,
+      "id": 6
+
+    },
+    {
+      "fuel": "Biogaz",
+      "wiFactor": 0.5,
+      "pricePerKW": 0,
+
+      "id": 7
+    },
+    {
+      "fuel": "Słońce",
+      "wiFactor": 0,
+      "pricePerKW": 5000,
+      "id": 8
+    },
+    {
+      "fuel": "Wiatr",
+      "wiFactor": 0,
+      "pricePerKW": 5000,
+      "id": 9
+
+    },
+    {
+      "fuel": "Energia geotermalna",
+      "wiFactor": 0,
+      "pricePerKW": 1500,
+      "id": 10
+    },
+    {
+      "fuel": "Ciepło odpadowe z przemysłu",
+      "wiFactor": 0.05,
+      "pricePerKW": 1000,
+      "id": 11
+    },
+    {
+      "fuel": "Energia elektryczna",
+      "wiFactor": 2.5,
+      "pricePerKW": 50,
+      "id": 12
+    }
+  ]

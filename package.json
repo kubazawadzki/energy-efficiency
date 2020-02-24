@@ -1,0 +1,45 @@
+{
+  "name": "FE_REACT_React",
+  "version": "1.0.0",
+  "description": "<img alt=\"Logo\" src=\"https://coderslab.pl/svg/logo-coderslab.svg\" width=\"400\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --hot -d",
+    "build": "webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodersLab-core/FE_REACT_React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodersLab-core/FE_REACT_React/issues"
+  },
+  "homepage": "https://github.com/CodersLab-core/FE_REACT_React#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.0",
+    "@babel/plugin-proposal-class-properties": "^7.4.0",
+    "@babel/preset-env": "^7.4.1",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.5",
+    "css-loader": "^3.4.1",
+    "node-sass": "^4.13.0",
+    "sass-loader": "^8.0.0",
+    "style-loader": "^1.1.2",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.2.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "popper.js": "^1.16.0",
+    "react": "^16.8.4",
+    "react-bootstrap": "^1.0.0-beta.16",
+    "react-dom": "^16.8.4",
+    "react-router-dom": "^5.1.2",
+    "react-trafficlight": "^5.1.2"
+  }
+}
