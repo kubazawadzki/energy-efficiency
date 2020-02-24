@@ -2,8 +2,8 @@
 Applied technology:
 
 *JavaScript <br>
-*ReactJS 
-*CSS 
-*HTML 
-*JSON Server 
-*Bootstrap
+*ReactJS <br>
+*CSS <br>
+*HTML <br>
+*JSON Server <br>
+*Bootstrap <br>
