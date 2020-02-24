@@ -5,7 +5,7 @@ Energy Efficiency App is tool for calculating energy efficiency indicators of yo
 Aplikacja Energy Efficiency jest narzędziem do obliczeń wskaźników efektywności energetycznej Twojego budynku w zależności od zastosowanego źródła ciepła.<br> Aplikacja kalkuluje równiez przybliżony koszt inwestycyjny oraz informacje czy Twój budynek otrzyna pozwolenie budowlane spełniając nowe wymagania od 2021 roku.
 
 # energy-efficiency
-Applied technology:
+Applied technology / Zastosowana technologia:
 
 *JavaScript <br>
 *ReactJS <br>
